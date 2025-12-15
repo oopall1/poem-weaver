@@ -16,7 +16,7 @@ A minimalist and beautifully designed web application for generating custom poem
 | :--- | :--- | :--- |
 | **Frontend** | React, TypeScript | Component-based UI and type safety. |
 | **Styling** | Tailwind CSS | Utility-first framework for rapid, beautiful dark-mode design. |
-| **AI Backend** | Google Gemini API (`@google/genai`) | High-performance text generation via the `gemini-2.5-flash` model. |
+| **AI Backend** | Google Gemini API (`@google/generative-ai`) | High-performance text generation via the `gemini-2.5-flash` model. |
 
 ## ⚙️ Setup and Installation
 
